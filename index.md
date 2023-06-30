@@ -13,3 +13,7 @@ b = 2
 sum = a + b
 print(sum)
 ```
+- [x] created headings
+- [x] Added image
+- [x] Added code
+- [ ] Created list
